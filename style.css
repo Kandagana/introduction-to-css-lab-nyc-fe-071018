@@ -1,15 +1,26 @@
 /* Tag selector to select the 'body' element */
 body {
+<<<<<<< HEAD
   background:#00b3e6;
+=======
+  color:#00b3e6;
+>>>>>>> 1f86ed40b7ec31b1ed9423c886e9cc2170226c1e
 }
 
 /* Tag selector to select all 'div' elements. We only have one 'div' in our HTML */
 div {
+<<<<<<< HEAD
   width:700px; 
   margin:auto; 
   font-family:"Helvetica Neue"; 
   background:white;
   padding:30px;
+=======
+  width:700px; margin:auto; font-family:"helvetica neue"; 
+}
+background {
+  color:#ffffff;
+>>>>>>> 1f86ed40b7ec31b1ed9423c886e9cc2170226c1e
 }
 /* ID selector to select the element with id 'main-header' */
 #main-header {
