@@ -8,9 +8,7 @@ h1
 }
 
 /* Tag selector to select all 'div' elements. We only have one 'div' in our HTML */
-selector 
-{
-    font-family:"Helvetica Neue";
+selector,
 div {
   font-family:"Helvetica Neue";
 h1
