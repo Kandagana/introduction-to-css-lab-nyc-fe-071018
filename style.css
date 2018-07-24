@@ -9,6 +9,7 @@ h1
 
 /* Tag selector to select all 'div' elements. We only have one 'div' in our HTML */
 div {
+  font-family:"Helvetica Neue";
 h1
   width:700px; 
   margin:auto; 
